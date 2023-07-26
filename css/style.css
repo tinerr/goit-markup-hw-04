@@ -335,7 +335,7 @@ body {
 }
 .icon-item .link:hover,
 .icon-item .link:focus {
-  background-color: var(--ocean);
+  background-color: var(--green);
 }
 
 .partners {
